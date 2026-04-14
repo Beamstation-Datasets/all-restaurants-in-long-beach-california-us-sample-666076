@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Long Beach, California with a population of over 466k. This dataset includes every active restaurant listing filtered by the Restaurants category group, with business profiles, review analytics, competitive rankings, and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Long Beach, California, US",
+  "export_job_id": "3a0f041d-2281-41f1-a3bd-518e5ad9f921",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 666076,
+  "location_name": "Long Beach",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-long-beach-california-us-sample-666076",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/666076/beamstation_666076_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 2.16,
+  "sample_records": 25,
+  "sample_sha256": "1986f39d6e85966b0cdbcea777003a949d6216f3ac6ba5a354d7a3e2476cf3ca",
+  "sample_size_bytes": 115926,
+  "total_records": 1155,
+  "updated_at": "2026-03-31T16:10:53.464987+00:00"
+}
