@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6b6d5832-87ba-43e5-98f7-cde542aea033",
+  "export_job_id": "6b168990-bc11-4e3b-9e2e-eccf3db040ac",
   "id_short": 666076,
-  "published_at": "2026-04-17T19:51:14Z",
+  "published_at": "2026-04-21T19:40:34Z",
   "repo_name": "all-restaurants-in-long-beach-california-us-sample-666076",
   "sample_asset_name": "beamstation_666076_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/666076/beamstation_666076_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 127,
-  "sample_sha256": "866ad193627fc4cb413d50a35d3a0721cb14ecdb5ceba2dd923b8ace652a6372",
-  "sample_size_bytes": 462816,
-  "total_records": 1279
+  "sample_records": 122,
+  "sample_sha256": "f633611f9a384c4656098ba5d4ffd658f9caf42a299231dd89454fe1354a34f2",
+  "sample_size_bytes": 448643,
+  "total_records": 1225
 }
