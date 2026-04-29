@@ -1,6 +1,6 @@
 # All Restaurants in Long Beach, California, US
 
-> Free BeamStation sample export with 122 rows and masked direct-contact fields.
+> Free BeamStation sample export with 77 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `666076` |
 | Location | Long Beach |
 | Category | Restaurants |
-| Full dataset size | 1,225 records |
-| Free sample size | 122 records (9.96%) |
-| Last export | 2026-04-21T18:34:32.890189+00:00 |
+| Full dataset size | 776 records |
+| Free sample size | 77 records (9.92%) |
+| Last export | 2026-04-28T19:55:21.560974+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-long-beach-california-us-sample-666076/releases/download/sample-latest/beamstation_666076_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
